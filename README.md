@@ -76,9 +76,13 @@ Representation of the Bankmarketing dataset with AutoML module:
 
 ![Bankmarketing dataset with AutoML module](screenshots/15-bank-marketing-dataset-automl-module.png)
 
-The published pipeline overview shows that the pipeline is finished(which further corresponds to an ACTIVE status):
+The published pipeline overview shows that the pipeline is ACTIVE:
 
-![Published Pipeline Overview](screenshots/16-published-pipeline-overview-finished.png)
+![Published Pipeline Overview ACTIVE](screenshots/15.5-published-pipeline-overview-finished.png)
+
+The published pipeline overview shows that the pipeline is ACTIVE:
+
+![Published Pipeline Overview FINISHED](screenshots/16-published-pipeline-overview-finished.png)
 
 The execution of `RunDetails` widget in Notebook, along with Python SDK:
 
@@ -91,4 +95,8 @@ Representation of the scheduled run of Pipeline in ML studio:
 
 
 ## Screen Recording
-The screencast has been uploaded to YouTube: [Screencast](https://youtu.be/M8ON4RzZuWI)
+Two screencasts has been uploaded to YouTube: 
+
+1. [Screencast Part 1](https://youtu.be/M8ON4RzZuWI)
+
+1. [Screencast Part 2](https://youtu.be/1epzibJTZBs)
